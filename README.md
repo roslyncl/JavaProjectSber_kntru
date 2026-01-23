@@ -20,7 +20,7 @@ REST API сервис на Spring Boot для системы управлени�
 После запуска приложения документация доступна по адресам:
 
 - **Swagger UI:** http://localhost:8081/swagger-ui/index.html
-- **OpenAPI JSON:** http://localhost:8080/v3/api-docs
+- **OpenAPI JSON:** http://localhost:8081/v3/api-docs
 
 ## Основные сущности
 
